@@ -1,6 +1,4 @@
-"""
-@author: Viet Nguyen <nhviet1009@gmail.com>
-"""
+
 import cv2
 import numpy as np
 
